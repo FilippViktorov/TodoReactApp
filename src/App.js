@@ -6,7 +6,7 @@ import { faTrash, faPlus, faEdit } from "@fortawesome/free-solid-svg-icons";
 library.add(faTrash, faEdit, faPlus);
 
 
-
+// this is a test comment
 function App() {
   return (
     <div className= "App">
